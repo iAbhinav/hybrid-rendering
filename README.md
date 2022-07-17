@@ -5,6 +5,7 @@ Starting from v11.1 Angular enables hybrid rendering by default for Universal pr
 ## Usage
 
 ```
+$ npm i
 $ yarn prerender
 $ node dist/hybrid-rendering/server/main.js
 $ open http://localhost:4000
